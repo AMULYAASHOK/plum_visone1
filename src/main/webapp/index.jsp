@@ -20,7 +20,7 @@
 
 <marquee behavior="scroll" direction="right">
 <h1 style="color:#9C2AD8  ">
-!!!!!PERIYANDICHI AMMAN THUNAI!!!!!!! </h1>
+!!!!!hospital -SALEM !!!!!!! </h1>
 
 </marquee>
 
