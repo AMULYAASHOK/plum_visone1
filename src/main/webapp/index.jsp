@@ -23,6 +23,17 @@
 AVAILABLE ALL OVER INDIA  </h1>
 
 </marquee>
+<marquee behavior="scroll" direction="right">
+<h1 style="color:#9C2AD8  ">
+AVAILABLE ALL OVER INDIA  </h1>
+
+</marquee>
+<marquee behavior="scroll" direction="right">
+<h1 style="color:#9C2AD8  ">
+DEVOPS ROLES  </h1>
+
+</marquee>
+
 
 
      
