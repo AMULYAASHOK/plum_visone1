@@ -20,7 +20,7 @@
 
 <marquee behavior="scroll" direction="right">
 <h1 style="color:#9C2AD8  ">
-!!!!!MURUGAN THUNAI****MURUGAN THUNA!!! </h1>
+AVAILABLE ALL OVER INDIA  </h1>
 
 </marquee>
 
